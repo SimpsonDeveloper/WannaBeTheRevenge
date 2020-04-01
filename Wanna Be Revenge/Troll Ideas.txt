@@ -1,0 +1,7 @@
+jump and platform comes out to kill you
+have to dodge a platform that comes after you, then you have to run behind it to get to a path
+you get thrown up into a spike
+platform moves out from underneath you
+you have to run into a safe zone before a timer kills you
+
+gravity reverses
